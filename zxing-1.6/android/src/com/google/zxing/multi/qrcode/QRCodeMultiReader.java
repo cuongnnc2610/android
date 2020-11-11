@@ -28,7 +28,7 @@ import com.google.zxing.common.DetectorResult;
 import com.google.zxing.multi.MultipleBarcodeReader;
 import com.google.zxing.multi.qrcode.detector.MultiDetector;
 import com.google.zxing.qrcode.QRCodeReader;
-
+ahihi
 import java.util.Hashtable;
 import java.util.Vector;
 
